@@ -18,6 +18,8 @@ A separately edited file was created from the original script and then tested fo
 
 <img width="277" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/26927158/191863961-f1411f89-d319-42fe-9c66-4cd6448ffa60.png">
 
+#### Results for Refactored Stock Analysis
+
 <img width="272" alt="VBA_Challenge_Refactored_2017" src="https://user-images.githubusercontent.com/26927158/191863969-dc2c223d-1b0a-45de-b761-72012d84a625.png">
 
 <img width="275" alt="VBA_Challenge_Refactored_2018" src="https://user-images.githubusercontent.com/26927158/191863987-fa0508e2-6384-45f7-9580-31c02ba60ba8.png">
