@@ -39,11 +39,11 @@ For a series of 12 stocks, a two-cycle with initial volume, starting and ending 
 
 ## Summary 
 
-##### 1.	What are the advantages or disadvantages of refactoring code?
+#### 1.	What are the advantages or disadvantages of refactoring code?
 
 Rearranging a program is often necessary for code fragments that function poorly. The situation we call improvement is done in order to save time in general terms, to be able to read better, and to increase the reliability rate of the analysis. In a successful edit, the code will run more accurately and the analysis will be done completely and with high reliability. Reorganizing the code means making improvements to the pieces of code in line with the wishes of the customers. In the research sector, data cleaning processes are carried out in line with the wishes and interests of the customers, we can call this a kind of optimization.
 
-##### 2.	How do those pros and cons apply to refactoring the original VBA script?
+#### 2.	How do those pros and cons apply to refactoring the original VBA script?
 
 While reorganizing VBA macros, it is decided to restructure the macros in order to increase the performance speed. In the reorganized piece of code, an accurate analysis will be possible in a short time when more datasets are added for this project or this piece of code is adapted to a larger volume dataset.
 
